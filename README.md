@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ekintkara" target="blank"><img src="https://img.shields.io/twitter/follow/ekintkara?logo=twitter&style=for-the-badge" alt="ekintkara" /></a> </p>
-<p href="https://www.taylanekin.com.tr/">https://www.taylanekin.tech/</p>
+<p href="https://www.taylanekin.com.tr/">https://www.taylanekin.com.tr/</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
