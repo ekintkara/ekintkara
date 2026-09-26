@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taylan Ekin Kara</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">I'm Taylan</h1>
 
 <p align="left"> <a href="https://twitter.com/ekintkara" target="blank"><img src="https://img.shields.io/twitter/follow/ekintkara?logo=twitter&style=for-the-badge" alt="ekintkara" /></a> </p>
 <p href="https://ekinkara.com/">https://ekinkara.com/</p>
